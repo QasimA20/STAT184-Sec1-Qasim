@@ -1,0 +1,8 @@
+
+This folder currently contains 1 file.
+It has a CSV file (.csv) that stores data.
+
+most_subscribed_youtuber_channels.csv: A dataset with details about the most subscribed YouTube channels. This may include information such as channel names, subscriber counts, category types, and other relevant metrics.
+Purpose of the Directory:
+
+This directory serves as the local repository for a data analysis project on YouTube channels. The dataset will be used for cleaning, visualization, and other analyses to gain insights into popular content creators and trends.
